@@ -112,3 +112,5 @@ An edge is **oriented** if it can be solved without using a rotation of the face
 ### Full-Cube Solving: Inverse Scramble
 
 For a cube that was scrambled by sequence `S`, the optimal solution is simply the **inverse of S**:
+
+> **By [Vanishree B S](https://github.com/vanishreebs105-hue)** · Bengaluru, India
